@@ -1,17 +1,18 @@
-# Analyse des Transports Publics Normands
+# 🚆 Analyse des Transports Publics Normands
 
-Ce projet présente une analyse exploratoire des réseaux de transport publics en Normandie, basée sur les données issues de la base multimodale officielle.
+## 📋 Description
+Analyse exploratoire complète des réseaux de transport en Normandie basée sur les données ouvertes NeTEx.
 
-## Objectifs
+## 🎯 Résultats
+- **707 arrêts** analysés
+- **Cartographie interactive** 
+- **Analyse spatiale** avancée
+- **Recommandations** d'optimisation
 
-- Étudier la répartition des arrêts et les horaires
-- Visualiser la couverture et la fréquence des services
-- Identifier des axes d’amélioration possibles
+## 🛠️ Technologies
+- Python, Pandas, Folium
+- Jupyter Notebook
+- Matplotlib/Seaborn
 
-## Méthodologie
-
-Traitement et analyse des données avec Python, pandas et visualisation matplotlib/seaborn.
-
-## Auteur
-
-LOE Joel
+## 👤 Auteur
+**Loël** - [Log23](https://github.com/Log23)
