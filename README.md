@@ -15,4 +15,4 @@ Analyse exploratoire complète des réseaux de transport en Normandie basée sur
 - Matplotlib/Seaborn
 
 ## 👤 Auteur
-**Loël** - [Log23](https://github.com/Log23)
+**LOE Joël** - [Log23](https://github.com/Log23)
